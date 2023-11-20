@@ -1,0 +1,4 @@
+executable_news_projct\dist\news_main_project\news_main_project.exe
+
+go to this file and run
+ 

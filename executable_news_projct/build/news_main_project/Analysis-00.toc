@@ -1,0 +1,2505 @@
+(['C:\\Users\\REHMAN BABA\\Desktop\\PY WORK\\python projects\\read '
+  'geo_News-paper\\executable_news_projct\\news_main_project.py'],
+ ['C:\\Users\\REHMAN BABA\\Desktop\\PY WORK\\python projects\\read '
+  'geo_News-paper\\executable_news_projct',
+  'C:\\Users\\REHMAN BABA\\Desktop\\PY WORK\\python projects\\read '
+  'geo_News-paper\\executable_news_projct'],
+ ['codecs'],
+ ['c:\\users\\rehman '
+  'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\stdhooks',
+  'c:\\users\\rehman '
+  'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\stdhooks\\__pycache__',
+  'c:\\users\\rehman '
+  'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks',
+  'c:\\users\\rehman '
+  'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks\\__pycache__',
+  'c:\\users\\rehman '
+  'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks',
+  'c:\\users\\rehman '
+  'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pygame\\__pyinstaller'],
+ [],
+ [],
+ False,
+ False,
+ False,
+ '3.9.2 (tags/v3.9.2:1a79785, Feb 19 2021, 13:44:55) [MSC v.1928 64 bit '
+ '(AMD64)]',
+ [('pyi_rth_multiprocessing',
+   'C:\\Users\\REHMAN '
+   'BABA\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_win32api',
+   'C:\\Users\\REHMAN '
+   'BABA\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_win32api.py',
+   'PYSOURCE'),
+  ('pyi_rth_win32comgenpy',
+   'C:\\Users\\REHMAN '
+   'BABA\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_win32comgenpy.py',
+   'PYSOURCE'),
+  ('pyi_rth_certifi',
+   'C:\\Users\\REHMAN '
+   'BABA\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks\\pyi_rth_certifi.py',
+   'PYSOURCE'),
+  ('news_main_project',
+   'C:\\Users\\REHMAN BABA\\Desktop\\PY WORK\\python projects\\read '
+   'geo_News-paper\\executable_news_projct\\news_main_project.py',
+   'PYSOURCE')],
+ [('ssl',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\ssl.py',
+   'PYMODULE'),
+  ('calendar',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\calendar.py',
+   'PYMODULE'),
+  ('argparse',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\argparse.py',
+   'PYMODULE'),
+  ('textwrap',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('shutil',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\shutil.py',
+   'PYMODULE'),
+  ('zipfile',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('ntpath',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('string',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\string.py',
+   'PYMODULE'),
+  ('genericpath',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._common',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\_common.py',
+   'PYMODULE'),
+  ('tempfile',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('random',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\random.py',
+   'PYMODULE'),
+  ('statistics',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\statistics.py',
+   'PYMODULE'),
+  ('decimal',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('contextvars',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('fractions',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\fractions.py',
+   'PYMODULE'),
+  ('numbers',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\numbers.py',
+   'PYMODULE'),
+  ('hashlib',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('logging',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('pickle',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\pprint.py',
+   'PYMODULE'),
+  ('doctest',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\doctest.py',
+   'PYMODULE'),
+  ('unittest',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('asyncio',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('subprocess',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('signal',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\signal.py',
+   'PYMODULE'),
+  ('selectors',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\selectors.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('queue',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\queue.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('runpy',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\runpy.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('zipimport',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\zipimport.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('ctypes',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('secrets',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\secrets.py',
+   'PYMODULE'),
+  ('hmac',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\hmac.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('gzip',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\gzip.py',
+   'PYMODULE'),
+  ('_compression',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\_compression.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\netrc.py',
+   'PYMODULE'),
+  ('shlex',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\shlex.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('getopt',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\getopt.py',
+   'PYMODULE'),
+  ('email.utils',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email.charset',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('quopri',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\quopri.py',
+   'PYMODULE'),
+  ('email.errors',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('urllib',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('email',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email.parser',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.message',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('uu',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\optparse.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.header',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('http.client',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('typing',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\typing.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest._log',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\_log.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('pdb',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\pdb.py',
+   'PYMODULE'),
+  ('pydoc',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('http.server',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('socketserver',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('html',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('tty',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\tty.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_bootsubprocess',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\_bootsubprocess.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\_osx_support.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('distutils',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('distutils.ccompiler',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('distutils.fancy_getopt',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('distutils.debug',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\debug.py',
+   'PYMODULE'),
+  ('distutils.util',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\util.py',
+   'PYMODULE'),
+  ('distutils.filelist',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\filelist.py',
+   'PYMODULE'),
+  ('distutils.dep_util',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\dep_util.py',
+   'PYMODULE'),
+  ('distutils.dir_util',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\dir_util.py',
+   'PYMODULE'),
+  ('distutils.file_util',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\file_util.py',
+   'PYMODULE'),
+  ('distutils.spawn',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\spawn.py',
+   'PYMODULE'),
+  ('distutils.errors',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\errors.py',
+   'PYMODULE'),
+  ('distutils.sysconfig',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('distutils.text_file',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\distutils\\text_file.py',
+   'PYMODULE'),
+  ('platform',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('tokenize',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('token',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\token.py',
+   'PYMODULE'),
+  ('glob',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\glob.py',
+   'PYMODULE'),
+  ('code',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\codeop.py',
+   'PYMODULE'),
+  ('dis',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\opcode.py',
+   'PYMODULE'),
+  ('bdb',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\bdb.py',
+   'PYMODULE'),
+  ('cmd',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\cmd.py',
+   'PYMODULE'),
+  ('inspect',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\inspect.py',
+   'PYMODULE'),
+  ('ast',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\ast.py',
+   'PYMODULE'),
+  ('difflib',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\difflib.py',
+   'PYMODULE'),
+  ('__future__',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\__future__.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('bisect',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\bisect.py',
+   'PYMODULE'),
+  ('pathlib',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\metadata.py',
+   'PYMODULE'),
+  ('configparser',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\configparser.py',
+   'PYMODULE'),
+  ('csv',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\csv.py',
+   'PYMODULE'),
+  ('contextlib',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('threading',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('struct',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\struct.py',
+   'PYMODULE'),
+  ('posixpath',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('tarfile',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('lzma',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\lzma.py',
+   'PYMODULE'),
+  ('bz2',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\bz2.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('stat',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\stat.py',
+   'PYMODULE'),
+  ('copy',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\copy.py',
+   'PYMODULE'),
+  ('gettext',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\gettext.py',
+   'PYMODULE'),
+  ('datetime',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\datetime.py',
+   'PYMODULE'),
+  ('_strptime',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('base64',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\base64.py',
+   'PYMODULE'),
+  ('socket',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\socket.py',
+   'PYMODULE'),
+  ('os',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\os.py',
+   'PYMODULE'),
+  ('win32com',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\__init__.py',
+   'PYMODULE'),
+  ('win32com.server.util',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\server\\util.py',
+   'PYMODULE'),
+  ('win32com.server.dispatcher',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\server\\dispatcher.py',
+   'PYMODULE'),
+  ('win32traceutil',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32\\lib\\win32traceutil.py',
+   'PYMODULE'),
+  ('win32com.util',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\util.py',
+   'PYMODULE'),
+  ('win32con',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32\\lib\\win32con.py',
+   'PYMODULE'),
+  ('win32com.server.exception',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\server\\exception.py',
+   'PYMODULE'),
+  ('winerror',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32\\lib\\winerror.py',
+   'PYMODULE'),
+  ('win32com.server.policy',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\server\\policy.py',
+   'PYMODULE'),
+  ('pywintypes',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32\\lib\\pywintypes.py',
+   'PYMODULE'),
+  ('win32com.server',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\server\\__init__.py',
+   'PYMODULE'),
+  ('win32com.universal',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\universal.py',
+   'PYMODULE'),
+  ('win32com.client.build',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\client\\build.py',
+   'PYMODULE'),
+  ('win32com.client.gencache',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\client\\gencache.py',
+   'PYMODULE'),
+  ('win32com.client.genpy',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\client\\genpy.py',
+   'PYMODULE'),
+  ('win32com.client.makepy',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\client\\makepy.py',
+   'PYMODULE'),
+  ('pywin.dialogs.status',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Pythonwin\\pywin\\dialogs\\status.py',
+   'PYMODULE'),
+  ('pywin.mfc.thread',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\thread.py',
+   'PYMODULE'),
+  ('pywin.mfc.object',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\object.py',
+   'PYMODULE'),
+  ('pywin.mfc.dialog',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\dialog.py',
+   'PYMODULE'),
+  ('pywin.mfc.window',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\window.py',
+   'PYMODULE'),
+  ('pywin.mfc',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\__init__.py',
+   'PYMODULE'),
+  ('pywin.dialogs',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Pythonwin\\pywin\\dialogs\\__init__.py',
+   'PYMODULE'),
+  ('pywin',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Pythonwin\\pywin\\__init__.py',
+   'PYMODULE'),
+  ('win32com.client.selecttlb',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\client\\selecttlb.py',
+   'PYMODULE'),
+  ('pywin.dialogs.list',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Pythonwin\\pywin\\dialogs\\list.py',
+   'PYMODULE'),
+  ('commctrl',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32\\lib\\commctrl.py',
+   'PYMODULE'),
+  ('win32com.client.CLSIDToClass',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\client\\CLSIDToClass.py',
+   'PYMODULE'),
+  ('win32com.client.util',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\client\\util.py',
+   'PYMODULE'),
+  ('pythoncom',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pythoncom.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('stringprep',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('win32com.client',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\client\\__init__.py',
+   'PYMODULE'),
+  ('win32com.client.dynamic',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32com\\client\\dynamic.py',
+   'PYMODULE'),
+  ('bs4',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\bs4\\__init__.py',
+   'PYMODULE'),
+  ('bs4.element',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\bs4\\element.py',
+   'PYMODULE'),
+  ('bs4.formatter',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\bs4\\formatter.py',
+   'PYMODULE'),
+  ('soupsieve',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\soupsieve\\__init__.py',
+   'PYMODULE'),
+  ('soupsieve.css_parser',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\soupsieve\\css_parser.py',
+   'PYMODULE'),
+  ('soupsieve.css_match',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\soupsieve\\css_match.py',
+   'PYMODULE'),
+  ('soupsieve.css_types',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\soupsieve\\css_types.py',
+   'PYMODULE'),
+  ('soupsieve.util',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\soupsieve\\util.py',
+   'PYMODULE'),
+  ('soupsieve.__meta__',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\soupsieve\\__meta__.py',
+   'PYMODULE'),
+  ('bs4.dammit',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\bs4\\dammit.py',
+   'PYMODULE'),
+  ('chardet',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\__init__.py',
+   'PYMODULE'),
+  ('chardet.version',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\version.py',
+   'PYMODULE'),
+  ('chardet.enums',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\enums.py',
+   'PYMODULE'),
+  ('chardet.universaldetector',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\universaldetector.py',
+   'PYMODULE'),
+  ('chardet.sbcsgroupprober',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\sbcsgroupprober.py',
+   'PYMODULE'),
+  ('chardet.sbcharsetprober',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\sbcharsetprober.py',
+   'PYMODULE'),
+  ('chardet.charsetprober',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\charsetprober.py',
+   'PYMODULE'),
+  ('chardet.langturkishmodel',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\langturkishmodel.py',
+   'PYMODULE'),
+  ('chardet.langthaimodel',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\langthaimodel.py',
+   'PYMODULE'),
+  ('chardet.langrussianmodel',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\langrussianmodel.py',
+   'PYMODULE'),
+  ('chardet.langhebrewmodel',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\langhebrewmodel.py',
+   'PYMODULE'),
+  ('chardet.langgreekmodel',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\langgreekmodel.py',
+   'PYMODULE'),
+  ('chardet.langbulgarianmodel',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\langbulgarianmodel.py',
+   'PYMODULE'),
+  ('chardet.hebrewprober',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\hebrewprober.py',
+   'PYMODULE'),
+  ('chardet.mbcsgroupprober',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\mbcsgroupprober.py',
+   'PYMODULE'),
+  ('chardet.euctwprober',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\euctwprober.py',
+   'PYMODULE'),
+  ('chardet.mbcssm',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\mbcssm.py',
+   'PYMODULE'),
+  ('chardet.chardistribution',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\chardistribution.py',
+   'PYMODULE'),
+  ('chardet.jisfreq',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\jisfreq.py',
+   'PYMODULE'),
+  ('chardet.big5freq',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\big5freq.py',
+   'PYMODULE'),
+  ('chardet.gb2312freq',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\gb2312freq.py',
+   'PYMODULE'),
+  ('chardet.euckrfreq',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\euckrfreq.py',
+   'PYMODULE'),
+  ('chardet.euctwfreq',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\euctwfreq.py',
+   'PYMODULE'),
+  ('chardet.codingstatemachine',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\codingstatemachine.py',
+   'PYMODULE'),
+  ('chardet.mbcharsetprober',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\mbcharsetprober.py',
+   'PYMODULE'),
+  ('chardet.big5prober',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\big5prober.py',
+   'PYMODULE'),
+  ('chardet.cp949prober',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\cp949prober.py',
+   'PYMODULE'),
+  ('chardet.euckrprober',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\euckrprober.py',
+   'PYMODULE'),
+  ('chardet.gb2312prober',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\gb2312prober.py',
+   'PYMODULE'),
+  ('chardet.eucjpprober',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\eucjpprober.py',
+   'PYMODULE'),
+  ('chardet.jpcntx',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\jpcntx.py',
+   'PYMODULE'),
+  ('chardet.sjisprober',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\sjisprober.py',
+   'PYMODULE'),
+  ('chardet.utf8prober',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\utf8prober.py',
+   'PYMODULE'),
+  ('chardet.latin1prober',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\latin1prober.py',
+   'PYMODULE'),
+  ('chardet.escprober',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\escprober.py',
+   'PYMODULE'),
+  ('chardet.escsm',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\escsm.py',
+   'PYMODULE'),
+  ('chardet.charsetgroupprober',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\chardet\\charsetgroupprober.py',
+   'PYMODULE'),
+  ('bs4.builder',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\bs4\\builder\\__init__.py',
+   'PYMODULE'),
+  ('bs4.builder._lxml',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\bs4\\builder\\_lxml.py',
+   'PYMODULE'),
+  ('lxml',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\lxml\\__init__.py',
+   'PYMODULE'),
+  ('lxml.html.html5parser',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\lxml\\html\\html5parser.py',
+   'PYMODULE'),
+  ('html5lib.treebuilders.etree_lxml',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\treebuilders\\etree_lxml.py',
+   'PYMODULE'),
+  ('six',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\six.py',
+   'PYMODULE'),
+  ('html5lib._ihatexml',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\_ihatexml.py',
+   'PYMODULE'),
+  ('html5lib.treebuilders.etree',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\treebuilders\\etree.py',
+   'PYMODULE'),
+  ('html5lib._utils',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\_utils.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('html5lib.constants',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\constants.py',
+   'PYMODULE'),
+  ('html5lib.treebuilders.base',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\treebuilders\\base.py',
+   'PYMODULE'),
+  ('html5lib.treebuilders',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\treebuilders\\__init__.py',
+   'PYMODULE'),
+  ('xml.dom.minidom',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\xml\\dom\\minidom.py',
+   'PYMODULE'),
+  ('xml.dom.pulldom',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\xml\\dom\\pulldom.py',
+   'PYMODULE'),
+  ('xml.dom.expatbuilder',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\xml\\dom\\expatbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.NodeFilter',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\xml\\dom\\NodeFilter.py',
+   'PYMODULE'),
+  ('xml.dom.xmlbuilder',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\xml\\dom\\xmlbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.minicompat',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\xml\\dom\\minicompat.py',
+   'PYMODULE'),
+  ('xml.dom.domreg',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\xml\\dom\\domreg.py',
+   'PYMODULE'),
+  ('xml.dom',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\xml\\dom\\__init__.py',
+   'PYMODULE'),
+  ('html5lib.treebuilders.dom',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\treebuilders\\dom.py',
+   'PYMODULE'),
+  ('html5lib',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\__init__.py',
+   'PYMODULE'),
+  ('html5lib.serializer',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\serializer.py',
+   'PYMODULE'),
+  ('html5lib.filters.optionaltags',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\filters\\optionaltags.py',
+   'PYMODULE'),
+  ('html5lib.filters.base',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\filters\\base.py',
+   'PYMODULE'),
+  ('html5lib.filters',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\filters\\__init__.py',
+   'PYMODULE'),
+  ('html5lib.filters.sanitizer',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\filters\\sanitizer.py',
+   'PYMODULE'),
+  ('html5lib.filters.whitespace',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\filters\\whitespace.py',
+   'PYMODULE'),
+  ('html5lib.filters.alphabeticalattributes',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\filters\\alphabeticalattributes.py',
+   'PYMODULE'),
+  ('html5lib.filters.inject_meta_charset',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\filters\\inject_meta_charset.py',
+   'PYMODULE'),
+  ('html5lib.treewalkers',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\treewalkers\\__init__.py',
+   'PYMODULE'),
+  ('html5lib.treewalkers.etree',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\treewalkers\\etree.py',
+   'PYMODULE'),
+  ('html5lib.treewalkers.etree_lxml',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\treewalkers\\etree_lxml.py',
+   'PYMODULE'),
+  ('html5lib.treewalkers.genshi',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\treewalkers\\genshi.py',
+   'PYMODULE'),
+  ('html5lib.treewalkers.dom',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\treewalkers\\dom.py',
+   'PYMODULE'),
+  ('html5lib.treewalkers.base',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\treewalkers\\base.py',
+   'PYMODULE'),
+  ('html5lib.html5parser',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\html5parser.py',
+   'PYMODULE'),
+  ('html5lib._tokenizer',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\_tokenizer.py',
+   'PYMODULE'),
+  ('html5lib._trie',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\_trie\\__init__.py',
+   'PYMODULE'),
+  ('html5lib._trie.py',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\_trie\\py.py',
+   'PYMODULE'),
+  ('html5lib._trie._base',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\_trie\\_base.py',
+   'PYMODULE'),
+  ('html5lib._inputstream',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\html5lib\\_inputstream.py',
+   'PYMODULE'),
+  ('webencodings',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\webencodings\\__init__.py',
+   'PYMODULE'),
+  ('webencodings.x_user_defined',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\webencodings\\x_user_defined.py',
+   'PYMODULE'),
+  ('webencodings.labels',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\webencodings\\labels.py',
+   'PYMODULE'),
+  ('lxml.html.defs',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\lxml\\html\\defs.py',
+   'PYMODULE'),
+  ('lxml.html.formfill',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\lxml\\html\\formfill.py',
+   'PYMODULE'),
+  ('lxml.html.usedoctest',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\lxml\\html\\usedoctest.py',
+   'PYMODULE'),
+  ('lxml.usedoctest',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\lxml\\usedoctest.py',
+   'PYMODULE'),
+  ('lxml.isoschematron',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\lxml\\isoschematron\\__init__.py',
+   'PYMODULE'),
+  ('lxml.html._setmixin',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\lxml\\html\\_setmixin.py',
+   'PYMODULE'),
+  ('lxml.pyclasslookup',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\lxml\\pyclasslookup.py',
+   'PYMODULE'),
+  ('lxml.includes',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\lxml\\includes\\__init__.py',
+   'PYMODULE'),
+  ('lxml.html._diffcommand',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\lxml\\html\\_diffcommand.py',
+   'PYMODULE'),
+  ('lxml.html',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\lxml\\html\\__init__.py',
+   'PYMODULE'),
+  ('lxml.ElementInclude',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\lxml\\ElementInclude.py',
+   'PYMODULE'),
+  ('lxml.doctestcompare',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\lxml\\doctestcompare.py',
+   'PYMODULE'),
+  ('cgi',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\cgi.py',
+   'PYMODULE'),
+  ('lxml.html.ElementSoup',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\lxml\\html\\ElementSoup.py',
+   'PYMODULE'),
+  ('lxml.html._html5builder',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\lxml\\html\\_html5builder.py',
+   'PYMODULE'),
+  ('lxml.html.soupparser',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\lxml\\html\\soupparser.py',
+   'PYMODULE'),
+  ('lxml.cssselect',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\lxml\\cssselect.py',
+   'PYMODULE'),
+  ('cssselect',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cssselect\\__init__.py',
+   'PYMODULE'),
+  ('cssselect.xpath',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cssselect\\xpath.py',
+   'PYMODULE'),
+  ('cssselect.parser',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cssselect\\parser.py',
+   'PYMODULE'),
+  ('lxml.html.builder',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\lxml\\html\\builder.py',
+   'PYMODULE'),
+  ('bs4.builder._html5lib',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\bs4\\builder\\_html5lib.py',
+   'PYMODULE'),
+  ('bs4.builder._htmlparser',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\bs4\\builder\\_htmlparser.py',
+   'PYMODULE'),
+  ('html.parser',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\html\\parser.py',
+   'PYMODULE'),
+  ('_markupbase',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\_markupbase.py',
+   'PYMODULE'),
+  ('requests',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\__init__.py',
+   'PYMODULE'),
+  ('requests.status_codes',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\status_codes.py',
+   'PYMODULE'),
+  ('requests.structures',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\structures.py',
+   'PYMODULE'),
+  ('requests.compat',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\compat.py',
+   'PYMODULE'),
+  ('http.cookies',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\http\\cookies.py',
+   'PYMODULE'),
+  ('json',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('requests.api',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\api.py',
+   'PYMODULE'),
+  ('requests.sessions',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\sessions.py',
+   'PYMODULE'),
+  ('requests.adapters',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\adapters.py',
+   'PYMODULE'),
+  ('urllib3.contrib.socks',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\contrib\\socks.py',
+   'PYMODULE'),
+  ('urllib3.util.url',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\util\\url.py',
+   'PYMODULE'),
+  ('idna',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\idna\\__init__.py',
+   'PYMODULE'),
+  ('idna.core',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\idna\\core.py',
+   'PYMODULE'),
+  ('idna.uts46data',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\idna\\uts46data.py',
+   'PYMODULE'),
+  ('idna.intranges',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\idna\\intranges.py',
+   'PYMODULE'),
+  ('idna.idnadata',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\idna\\idnadata.py',
+   'PYMODULE'),
+  ('idna.package_data',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\idna\\package_data.py',
+   'PYMODULE'),
+  ('urllib3.packages.six',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\packages\\six.py',
+   'PYMODULE'),
+  ('urllib3.packages',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\packages\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.packages.ssl_match_hostname',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\packages\\ssl_match_hostname\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.packages.ssl_match_hostname._implementation',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\packages\\ssl_match_hostname\\_implementation.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\ipaddress.py',
+   'PYMODULE'),
+  ('urllib3.connectionpool',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\connectionpool.py',
+   'PYMODULE'),
+  ('urllib3.util.timeout',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\util\\timeout.py',
+   'PYMODULE'),
+  ('urllib3.util.response',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\util\\response.py',
+   'PYMODULE'),
+  ('urllib3.util.request',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\util\\request.py',
+   'PYMODULE'),
+  ('urllib3.util.queue',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\util\\queue.py',
+   'PYMODULE'),
+  ('urllib3.util.proxy',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\util\\proxy.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\util\\ssl_.py',
+   'PYMODULE'),
+  ('urllib3.util.ssltransport',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\util\\ssltransport.py',
+   'PYMODULE'),
+  ('urllib3.util.connection',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\util\\connection.py',
+   'PYMODULE'),
+  ('urllib3.util.wait',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\util\\wait.py',
+   'PYMODULE'),
+  ('urllib3.contrib._appengine_environ',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\contrib\\_appengine_environ.py',
+   'PYMODULE'),
+  ('urllib3.request',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\request.py',
+   'PYMODULE'),
+  ('urllib3.filepost',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\filepost.py',
+   'PYMODULE'),
+  ('urllib3.fields',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\fields.py',
+   'PYMODULE'),
+  ('urllib3.connection',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\connection.py',
+   'PYMODULE'),
+  ('urllib3._version',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\_version.py',
+   'PYMODULE'),
+  ('urllib3._collections',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\_collections.py',
+   'PYMODULE'),
+  ('urllib3.util.retry',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\util\\retry.py',
+   'PYMODULE'),
+  ('urllib3.util',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\util\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.response',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\response.py',
+   'PYMODULE'),
+  ('urllib3.poolmanager',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\poolmanager.py',
+   'PYMODULE'),
+  ('requests._internal_utils',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\_internal_utils.py',
+   'PYMODULE'),
+  ('requests.hooks',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\hooks.py',
+   'PYMODULE'),
+  ('requests.cookies',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\cookies.py',
+   'PYMODULE'),
+  ('requests.auth',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\auth.py',
+   'PYMODULE'),
+  ('requests.models',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\models.py',
+   'PYMODULE'),
+  ('requests.packages',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\packages.py',
+   'PYMODULE'),
+  ('requests.utils',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\utils.py',
+   'PYMODULE'),
+  ('requests.certs',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\certs.py',
+   'PYMODULE'),
+  ('certifi',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\certifi\\__init__.py',
+   'PYMODULE'),
+  ('certifi.core',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\certifi\\core.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\resources.py',
+   'PYMODULE'),
+  ('requests.__version__',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\__version__.py',
+   'PYMODULE'),
+  ('urllib3.exceptions',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\exceptions.py',
+   'PYMODULE'),
+  ('cryptography',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings.openssl',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\bindings\\openssl\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\bindings\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings.openssl._conditional',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\bindings\\openssl\\_conditional.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings.openssl.binding',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\bindings\\openssl\\binding.py',
+   'PYMODULE'),
+  ('cryptography.exceptions',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\exceptions.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.hashes',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\hashes.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.hashes',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\hashes.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization.pkcs7',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\pkcs7.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.rsa',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\rsa.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.utils',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\utils.py',
+   'PYMODULE'),
+  ('cryptography.hazmat._der',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\_der.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives._asymmetric',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\_asymmetric.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.ec',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\ec.py',
+   'PYMODULE'),
+  ('cryptography.hazmat._oid',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\_oid.py',
+   'PYMODULE'),
+  ('cryptography.x509.oid',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\x509\\oid.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.ed25519',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\ed25519.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.dsa',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\dsa.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.dh',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\dh.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization.ssh',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\ssh.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.modes',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\modes.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives._cipheralgorithm',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\_cipheralgorithm.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.algorithms',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\algorithms.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.base',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\base.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization.base',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\base.py',
+   'PYMODULE'),
+  ('cryptography.hazmat._types',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\_types.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.ed448',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\ed448.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives._serialization',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\_serialization.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.constant_time',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\constant_time.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.aead',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\aead.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.aead',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\aead.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.hmac',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\hmac.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.rsa',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\rsa.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.padding',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\padding.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.decode_asn1',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\decode_asn1.py',
+   'PYMODULE'),
+  ('cryptography.x509.name',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\x509\\name.py',
+   'PYMODULE'),
+  ('cryptography.x509.extensions',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\x509\\extensions.py',
+   'PYMODULE'),
+  ('cryptography.x509.general_name',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\x509\\general_name.py',
+   'PYMODULE'),
+  ('cryptography.x509.certificate_transparency',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\x509\\certificate_transparency.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.x25519',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\x25519.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.x25519',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\x25519.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.dh',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\dh.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.ec',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\ec.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.x448',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\x448.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.x448',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\x448.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.encode_asn1',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\encode_asn1.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.ocsp',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\ocsp.py',
+   'PYMODULE'),
+  ('cryptography.x509.ocsp',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\x509\\ocsp.py',
+   'PYMODULE'),
+  ('cryptography.x509.base',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\x509\\base.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.backend',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\backend.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.kdf.scrypt',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\kdf\\scrypt.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.kdf',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\primitives\\kdf\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.interfaces',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\interfaces.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.x509',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\x509.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.ciphers',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\ciphers.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.ed448',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\ed448.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.cmac',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\cmac.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.utils',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\utils.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.poly1305',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\poly1305.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.dsa',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\dsa.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.ed25519',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\ed25519.py',
+   'PYMODULE'),
+  ('cryptography.x509',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\x509\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.utils',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\utils.py',
+   'PYMODULE'),
+  ('cryptography.__about__',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\__about__.py',
+   'PYMODULE'),
+  ('urllib3.contrib.pyopenssl',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\contrib\\pyopenssl.py',
+   'PYMODULE'),
+  ('urllib3.packages.backports.makefile',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\packages\\backports\\makefile.py',
+   'PYMODULE'),
+  ('urllib3.packages.backports',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\packages\\backports\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\contrib\\__init__.py',
+   'PYMODULE'),
+  ('requests.exceptions',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\requests\\exceptions.py',
+   'PYMODULE'),
+  ('urllib3',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\urllib3\\__init__.py',
+   'PYMODULE')],
+ [('api-ms-win-crt-heap-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-11.0.1\\bin\\api-ms-win-crt-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-runtime-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-11.0.1\\bin\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('api-ms-win-crt-stdio-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-11.0.1\\bin\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-math-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-11.0.1\\bin\\api-ms-win-crt-math-l1-1-0.dll',
+   'BINARY'),
+  ('python39.dll',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\python39.dll',
+   'BINARY'),
+  ('api-ms-win-crt-locale-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-11.0.1\\bin\\api-ms-win-crt-locale-l1-1-0.dll',
+   'BINARY'),
+  ('ucrtbase.dll',
+   'C:\\Program Files\\Java\\jdk-11.0.1\\bin\\ucrtbase.dll',
+   'BINARY'),
+  ('api-ms-win-crt-string-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-11.0.1\\bin\\api-ms-win-crt-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-convert-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-11.0.1\\bin\\api-ms-win-crt-convert-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-filesystem-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-11.0.1\\bin\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-time-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-11.0.1\\bin\\api-ms-win-crt-time-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-conio-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-11.0.1\\bin\\api-ms-win-crt-conio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-process-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-11.0.1\\bin\\api-ms-win-crt-process-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-environment-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-11.0.1\\bin\\api-ms-win-crt-environment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-11.0.1\\bin\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l2-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-11.0.1\\bin\\api-ms-win-core-file-l2-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-errorhandling-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-11.0.1\\bin\\api-ms-win-core-errorhandling-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-11.0.1\\bin\\api-ms-win-core-synch-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-datetime-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-11.0.1\\bin\\api-ms-win-core-datetime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-1.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-11.0.1\\bin\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'BINARY'),
+  ('api-ms-win-core-handle-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-11.0.1\\bin\\api-ms-win-core-handle-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-11.0.1\\bin\\api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-heap-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-11.0.1\\bin\\api-ms-win-core-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-localization-l1-2-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-11.0.1\\bin\\api-ms-win-core-localization-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-profile-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-11.0.1\\bin\\api-ms-win-core-profile-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-interlocked-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-11.0.1\\bin\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-console-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-11.0.1\\bin\\api-ms-win-core-console-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-util-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-11.0.1\\bin\\api-ms-win-core-util-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-timezone-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-11.0.1\\bin\\api-ms-win-core-timezone-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-2-0.dll',
+   'C:\\Program Files\\Java\\jdk-11.0.1\\bin\\api-ms-win-core-synch-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-string-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-11.0.1\\bin\\api-ms-win-core-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-libraryloader-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-11.0.1\\bin\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processenvironment-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-11.0.1\\bin\\api-ms-win-core-processenvironment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-sysinfo-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-11.0.1\\bin\\api-ms-win-core-sysinfo-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-11.0.1\\bin\\api-ms-win-core-file-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-namedpipe-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-11.0.1\\bin\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-2-0.dll',
+   'C:\\Program Files\\Java\\jdk-11.0.1\\bin\\api-ms-win-core-file-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-debug-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-11.0.1\\bin\\api-ms-win-core-debug-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-memory-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-11.0.1\\bin\\api-ms-win-core-memory-l1-1-0.dll',
+   'BINARY'),
+  ('pywintypes39.dll',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pywin32_system32\\pywintypes39.dll',
+   'BINARY'),
+  ('pythoncom39.dll',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pywin32_system32\\pythoncom39.dll',
+   'BINARY'),
+  ('_decimal',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('select',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_overlapped',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_asyncio',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('_queue',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('_ctypes',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_multiprocessing',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('pyexpat',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('unicodedata',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_hashlib',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_lzma',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('_socket',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_ssl',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('win32trace',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32\\win32trace.pyd',
+   'EXTENSION'),
+  ('_win32sysloader',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32\\_win32sysloader.pyd',
+   'EXTENSION'),
+  ('win32ui',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Pythonwin\\win32ui.pyd',
+   'EXTENSION'),
+  ('win32api',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\win32\\win32api.pyd',
+   'EXTENSION'),
+  ('lxml.etree',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\lxml\\etree.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('lxml._elementpath',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\lxml\\_elementpath.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('_elementtree',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\DLLs\\_elementtree.pyd',
+   'EXTENSION'),
+  ('lxml.html.diff',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\lxml\\html\\diff.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('lxml.objectify',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\lxml\\objectify.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('lxml.builder',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\lxml\\builder.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('lxml.html.clean',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\lxml\\html\\clean.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('lxml.sax',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\lxml\\sax.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('_cffi_backend',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\_cffi_backend.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('cryptography.hazmat.bindings._openssl',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography\\hazmat\\bindings\\_openssl.pyd',
+   'EXTENSION'),
+  ('api-ms-win-crt-utility-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-11.0.1\\bin\\api-ms-win-crt-utility-l1-1-0.dll',
+   'BINARY'),
+  ('libffi-7.dll',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\DLLs\\libffi-7.dll',
+   'BINARY'),
+  ('libcrypto-1_1.dll',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('mfc140u.dll',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\Pythonwin\\mfc140u.dll',
+   'BINARY'),
+  ('python3.dll',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\python3.dll',
+   'BINARY'),
+  ('api-ms-win-crt-multibyte-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-11.0.1\\bin\\api-ms-win-crt-multibyte-l1-1-0.dll',
+   'BINARY')],
+ [],
+ [],
+ [('base_library.zip',
+   'C:\\Users\\REHMAN BABA\\Desktop\\PY WORK\\python projects\\read '
+   'geo_News-paper\\executable_news_projct\\build\\news_main_project\\base_library.zip',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_svrl_for_xslt1.xsl',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_svrl_for_xslt1.xsl',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\XSD2Schtrn.xsl',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\XSD2Schtrn.xsl',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_schematron_skeleton_for_xslt1.xsl',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_schematron_skeleton_for_xslt1.xsl',
+   'DATA'),
+  ('cryptography-3.4.7-py3.9.egg-info\\METADATA',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography-3.4.7.dist-info\\METADATA',
+   'DATA'),
+  ('cryptography-3.4.7-py3.9.egg-info\\top_level.txt',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography-3.4.7.dist-info\\top_level.txt',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_abstract_expand.xsl',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_abstract_expand.xsl',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_schematron_message.xsl',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_schematron_message.xsl',
+   'DATA'),
+  ('cryptography-3.4.7-py3.9.egg-info\\LICENSE',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography-3.4.7.dist-info\\LICENSE',
+   'DATA'),
+  ('cryptography-3.4.7-py3.9.egg-info\\LICENSE.BSD',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography-3.4.7.dist-info\\LICENSE.BSD',
+   'DATA'),
+  ('cryptography-3.4.7-py3.9.egg-info\\LICENSE.APACHE',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography-3.4.7.dist-info\\LICENSE.APACHE',
+   'DATA'),
+  ('cryptography-3.4.7-py3.9.egg-info\\RECORD',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography-3.4.7.dist-info\\RECORD',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\RNG2Schtrn.xsl',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\RNG2Schtrn.xsl',
+   'DATA'),
+  ('cryptography-3.4.7-py3.9.egg-info\\LICENSE.PSF',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography-3.4.7.dist-info\\LICENSE.PSF',
+   'DATA'),
+  ('cryptography-3.4.7-py3.9.egg-info\\INSTALLER',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography-3.4.7.dist-info\\INSTALLER',
+   'DATA'),
+  ('certifi\\cacert.pem',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\certifi\\cacert.pem',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\rng\\iso-schematron.rng',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\lxml\\isoschematron\\resources\\rng\\iso-schematron.rng',
+   'DATA'),
+  ('Include\\pyconfig.h',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\Include\\pyconfig.h',
+   'DATA'),
+  ('cryptography-3.4.7-py3.9.egg-info\\WHEEL',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\cryptography-3.4.7.dist-info\\WHEEL',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\readme.txt',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\readme.txt',
+   'DATA'),
+  ('lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_dsdl_include.xsl',
+   'c:\\users\\rehman '
+   'baba\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\lxml\\isoschematron\\resources\\xsl\\iso-schematron-xslt1\\iso_dsdl_include.xsl',
+   'DATA')],
+ [])
